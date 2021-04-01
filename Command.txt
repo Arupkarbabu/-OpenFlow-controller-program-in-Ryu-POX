@@ -1,0 +1,6 @@
+controller command :
+ryu-manager source.py
+
+create the topology : 
+sudo mn --topo=tree,2 --controller =remote
+
